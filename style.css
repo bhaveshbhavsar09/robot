@@ -228,3 +228,26 @@ footer {
   margin-bottom: 20px;
   color: #333;
 }
+.whyus {
+  padding: 60px 50px;
+  background: #f9f9f9;
+  text-align: center;
+}
+.whyus h2 {
+  font-size: 2.2em;
+  margin-bottom: 20px;
+}
+.whyus p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  color: #333;
+}
+.whyus ul {
+  list-style: none;
+  padding: 0;
+}
+.whyus li {
+  font-size: 1.1em;
+  margin: 10px 0;
+  color: #444;
+}
