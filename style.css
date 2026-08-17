@@ -211,3 +211,20 @@ footer {
 .product-card h3 {
   margin-bottom: 10px;
 }
+.about {
+  padding: 60px 50px;
+  background: #eee;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+.about p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #333;
+}
