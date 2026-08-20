@@ -273,3 +273,19 @@ footer {
 .book-btn:hover {
   background: #1e7e34;
 }
+.about-page {
+  padding: 60px 50px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+.about-page h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+.about-page p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #333;
+}
