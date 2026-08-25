@@ -313,3 +313,27 @@ footer {
 .book-btn:hover {
   background: #1e7e34;
 }
+.about-robot {
+  padding: 60px 50px;
+  background: #f4f4f4;
+  text-align: center;
+}
+.about-robot h2 {
+  font-size: 2.2em;
+  margin-bottom: 20px;
+}
+.about-robot p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #333;
+}
+.about-robot .btn {
+  margin: 10px;
+}
+.book-btn {
+  background: #28a745; /* green for Book Now */
+}
+.book-btn:hover {
+  background: #1e7e34;
+}
